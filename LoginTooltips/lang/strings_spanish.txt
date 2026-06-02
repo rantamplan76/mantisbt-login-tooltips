@@ -1,0 +1,3 @@
+<?php
+$s_plugin_LoginTooltips_remember_login = 'Si marcas esta opción, no tendrás que iniciar sesión cada vez que cierres el navegador. Úsalo solo en equipos de tu propiedad.';
+$s_plugin_LoginTooltips_secure_session = 'Por seguridad, la sesión se cerrará automáticamente si tu proveedor de internet cambia tu dirección IP. Desactívalo si tienes cierres de sesión inesperados o conectas desde una línea móvil.';

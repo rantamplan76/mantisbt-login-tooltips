@@ -1,0 +1,3 @@
+<?php
+$s_plugin_LoginTooltips_remember_login = 'If you check this option, you will not have to log in every time you close your browser. Use it only on your own devices.';
+$s_plugin_LoginTooltips_secure_session = 'For security, the session will close automatically if your internet provider changes your IP address. Disable it if you experience unexpected logouts or connect from a mobile network.';
