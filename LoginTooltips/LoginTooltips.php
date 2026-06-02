@@ -11,7 +11,7 @@ class LoginTooltipsPlugin extends MantisPlugin {
         );
         $this->author      = 'Javi Escartín (rantamplan76)';
         $this->contact     = 'javi@javiescartin.com';
-        $this->url         = 'https://github.com/rantamplan76';
+        $this->url         = 'https://github.com/rantamplan76/mantisbt-login-tooltips';
     }
 
     function hooks() {
